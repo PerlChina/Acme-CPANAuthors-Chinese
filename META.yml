@@ -1,22 +1,23 @@
 ---
-name: Acme-CPANAuthors-Chinese
-version: 0.15
+abstract: 'CPAN 中国作者'
 author:
   - 'Fayland Lam <fayland@gmail.com>'
-abstract: CPAN 中国作者
-license: perl
-resources:
-  license: http://dev.perl.org/licenses/
 build_requires:
-  Acme::CPANAuthors: 0
   Test::More: 0
 configure_requires:
-  Module::Build: 0.35
-provides:
-  Acme::CPANAuthors::Chinese:
-    file: lib/Acme/CPANAuthors/Chinese.pm
-    version: 0.15
-generated_by: Module::Build version 0.35
+  Module::Build: 0.36
+generated_by: 'Module::Build version 0.3601'
+license: perl
 meta-spec:
   url: http://module-build.sourceforge.net/META-spec-v1.4.html
   version: 1.4
+name: Acme-CPANAuthors-Chinese
+provides:
+  Acme::CPANAuthors::Chinese:
+    file: lib/Acme/CPANAuthors/Chinese.pm
+    version: 0.16
+requires:
+  Acme::CPANAuthors: 0
+resources:
+  license: http://dev.perl.org/licenses/
+version: 0.16
