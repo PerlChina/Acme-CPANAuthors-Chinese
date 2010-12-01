@@ -3,7 +3,7 @@ package Acme::CPANAuthors::Chinese;
 use strict;
 use warnings;
 
-our $VERSION = '0.17';
+our $VERSION = '0.18';
 
 use Acme::CPANAuthors::Register (
     AGENT       => 'Agent Zhang (章亦春)',
@@ -14,6 +14,7 @@ use Acme::CPANAuthors::Register (
     CHYLLI      => 'chylli',
     CNANGEL     => '李俊良',
     CNHACKTNT   => '王晖',
+    DOGGY       => 'Pan Fan (nightsailer)',
     DONGXU      => 'Dongxu Ma <马东旭>',
     FAYLAND     => 'Fayland 林',
     FKIORI      => '陈正伟',
