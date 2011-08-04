@@ -15,9 +15,9 @@ name: Acme-CPANAuthors-Chinese
 provides:
   Acme::CPANAuthors::Chinese:
     file: lib/Acme/CPANAuthors/Chinese.pm
-    version: 0.19
+    version: 0.20
 requires:
   Acme::CPANAuthors: 0
 resources:
   license: http://dev.perl.org/licenses/
-version: 0.19
+version: 0.20
