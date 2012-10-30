@@ -3,7 +3,7 @@ package Acme::CPANAuthors::Chinese;
 use strict;
 use warnings;
 
-our $VERSION = '0.23';
+our $VERSION = '0.24';
 
 use Acme::CPANAuthors::Register (
     AGENT       => 'Agent Zhang (章亦春)',
@@ -22,6 +22,7 @@ use Acme::CPANAuthors::Register (
     FKIORI      => '陈正伟',
     FLW         => '王兴华',
     FOOLFISH    => '錢宇/Qian Yu',
+    FUKAI       => '扶凯',
     HGNENG      => '黄冠能',
     HOOWA       => '孙冰',
     ISLUE       => '胡海麟',
@@ -64,8 +65,6 @@ __END__
 
 Acme::CPANAuthors::Chinese - We are chinese CPAN authors
 
-Acme::CPANAuthors::Chinese - CPAN 中国作者
-
 =head1 SYNOPSIS
 
    use Acme::CPANAuthors;
@@ -81,6 +80,8 @@ Acme::CPANAuthors::Chinese - CPAN 中国作者
 
 
 =head1 DESCRIPTION
+
+Acme::CPANAuthors::Chinese - CPAN 中国作者
 
 This class is used to provide a hash of chinese CPAN author's PAUSE id/name to Acme::CPANAuthors.
 
@@ -102,7 +103,7 @@ Fayland Lam, C<< <fayland at gmail.com> >>
 
 =head1 COPYRIGHT AND LICENSE
 
-Copyright 2008 Fayland Lam, all rights reserved.
+Copyright 2008-2012 Fayland Lam, PerlChina all rights reserved.
 
 This program is free software; you can redistribute it and/or modify it
 under the same terms as Perl itself.
