@@ -3,7 +3,7 @@ package Acme::CPANAuthors::Chinese;
 use strict;
 use warnings;
 
-our $VERSION = '0.26';
+our $VERSION = '0.27';
 
 use Acme::CPANAuthors::Register (
     ABBYPAN     => 'Abby Pan',
@@ -14,6 +14,7 @@ use Acme::CPANAuthors::Register (
     CHENGANG    => '陈钢',
     CHENRYN     => 'Jeff Rao',
     CHENYR      => 'Chen Yirong (春江)',
+    CHINAXING   => '陈云星',
     CHUNZI      => 'Chunzi',
     CHYLLI      => 'chylli',
     CNANGEL     => '李俊良',
