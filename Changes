@@ -1,5 +1,8 @@
 Revision history for Acme-CPANAuthors-Chinese
 
+0.28    2013.07.20
+        use utf8; (RT 87073, by ETHER)
+
 0.27    2013.06.07
         CHINAXING   => '陈云星',
 

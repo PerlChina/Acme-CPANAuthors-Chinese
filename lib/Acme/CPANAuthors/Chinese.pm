@@ -2,8 +2,9 @@ package Acme::CPANAuthors::Chinese;
 
 use strict;
 use warnings;
+use utf8;
 
-our $VERSION = '0.27';
+our $VERSION = '0.28';
 
 use Acme::CPANAuthors::Register (
     ABBYPAN     => 'Abby Pan',
