@@ -1,5 +1,8 @@
 Revision history for Acme-CPANAuthors-Chinese
 
+0.29    2013.08.29
+        TOMORROW    => ' 舌尖上的牛氓 ',
+
 0.28    2013.07.20
         use utf8; (RT 87073, by ETHER)
 
