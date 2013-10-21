@@ -4,7 +4,7 @@ use strict;
 use warnings;
 use utf8;
 
-our $VERSION = '0.29';
+our $VERSION = '0.30';
 
 use Acme::CPANAuthors::Register (
     ABBYPAN     => 'Abby Pan',
@@ -55,6 +55,7 @@ use Acme::CPANAuthors::Register (
     WEIQK       => '万朝伟',
     YEWENBIN    => '叶文彬',
     YHPENG      => 'Ken Peng',
+    XIAODONG    => 'Xiaodong Xu',
     XIAOLAN     => '傅小兰',
     XINMING     => '鹄驿懿',
     XINZHENG    => '郑 鑫',
@@ -65,6 +66,8 @@ use Acme::CPANAuthors::Register (
 1;
 
 __END__
+
+=encoding utf8
 
 =head1 NAME
 
@@ -86,7 +89,7 @@ Acme::CPANAuthors::Chinese - We are chinese CPAN authors
 
 =head1 DESCRIPTION
 
-Acme::CPANAuthors::Chinese - CPAN 中国作者
+CPAN 中国作者
 
 This class is used to provide a hash of chinese CPAN author's PAUSE id/name to Acme::CPANAuthors.
 
