@@ -4,7 +4,7 @@ use strict;
 use warnings;
 use utf8;
 
-our $VERSION = '0.30';
+our $VERSION = '0.31';
 
 use Acme::CPANAuthors::Register (
     ABBYPAN     => 'Abby Pan',
@@ -59,6 +59,7 @@ use Acme::CPANAuthors::Register (
     XIAOLAN     => '傅小兰',
     XINMING     => '鹄驿懿',
     XINZHENG    => '郑 鑫',
+    XUDAYE      => 'Achilles Xu',
     XUERON      => 'Xueron Nee',
     ZHUZHU      => 'Zhu Zhu',
 );
