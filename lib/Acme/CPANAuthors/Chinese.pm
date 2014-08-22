@@ -73,7 +73,7 @@ __END__
 
 =head1 NAME
 
-Acme::CPANAuthors::Chinese - We are chinese CPAN authors
+Acme::CPANAuthors::Chinese - We are Chinese CPAN authors
 
 =head1 SYNOPSIS
 
@@ -93,11 +93,11 @@ Acme::CPANAuthors::Chinese - We are chinese CPAN authors
 
 CPAN 中国作者
 
-This class is used to provide a hash of chinese CPAN author's PAUSE id/name to Acme::CPANAuthors.
+This class is used to provide a hash of Chinese CPAN author's PAUSE id/name to Acme::CPANAuthors.
 
 =head1 MAINTENANCE
 
-If you are a chinese CPAN author not listed here, please send me your id/name via email or RT so we can always keep this module up to date. If there's a mistake and you're listed here but are not chinese (or just don't want to be listed), sorry for the inconvenience: please contact me and I'll remove the entry right away.
+If you are a Chinese CPAN author not listed here, please send me your id/name via email or RT so we can always keep this module up to date. If there's a mistake and you're listed here but are not Chinese (or just don't want to be listed), sorry for the inconvenience: please contact me and I'll remove the entry right away.
 
 =head1 SEE ALSO
 
