@@ -1,52 +1,45 @@
-Acme-CPANAuthors-Chinese
+NAME
+    Acme::CPANAuthors::Chinese - We are chinese CPAN authors
 
-The README is used to introduce the module and provide instructions on
-how to install the module, any machine dependencies it may have (for
-example C compilers and installed libraries) and any other information
-that should be provided before the module is installed.
+SYNOPSIS
+       use Acme::CPANAuthors;
+       use Acme::CPANAuthors::Chinese;
 
-A README file is required for CPAN modules since CPAN extracts the README
-file from a module distribution so that people browsing the archive
-can use it to get an idea of the module's uses. It is usually a good idea
-to provide version information here so that people can decide whether
-fixes for the module are worth downloading.
+       my $authors = Acme::CPANAuthors->new('Chinese');
 
+       my $number   = $authors->count;
+       my @ids      = $authors->id;
+       my @distros  = $authors->distributions('AGENT');
+       my $url      = $authors->avatar_url('FAYLAND');
+       my $kwalitee = $authors->kwalitee('YEWENBIN');
 
-INSTALLATION
+DESCRIPTION
+    CPAN 中国作者
 
-To install this module, run the following commands:
+    This class is used to provide a hash of chinese CPAN author's PAUSE
+    id/name to Acme::CPANAuthors.
 
-	perl Build.PL
-	./Build
-	./Build test
-	./Build install
+MAINTENANCE
+    If you are a chinese CPAN author not listed here, please send me your
+    id/name via email or RT so we can always keep this module up to date. If
+    there's a mistake and you're listed here but are not chinese (or just
+    don't want to be listed), sorry for the inconvenience: please contact me
+    and I'll remove the entry right away.
 
-SUPPORT AND DOCUMENTATION
+SEE ALSO
+    Acme::CPANAuthors - Main class to manipulate this one
 
-After installing, you can find documentation for this module with the
-perldoc command.
+    Acme::CPANAuthors::Japanese - Code and documentation nearly taken
+    verbatim from it
 
-    perldoc Acme::CPANAuthors::Chinese
+    Acme::CPANAuthors::Brazilian - inspired me directly
 
-You can also look for information at:
+AUTHOR
+    Fayland Lam, "<fayland at gmail.com>"
 
-    RT, CPAN's request tracker
-        http://rt.cpan.org/NoAuth/Bugs.html?Dist=Acme-CPANAuthors-Chinese
+COPYRIGHT AND LICENSE
+    Copyright 2008-2012 Fayland Lam, PerlChina all rights reserved.
 
-    AnnoCPAN, Annotated CPAN documentation
-        http://annocpan.org/dist/Acme-CPANAuthors-Chinese
-
-    CPAN Ratings
-        http://cpanratings.perl.org/d/Acme-CPANAuthors-Chinese
-
-    Search CPAN
-        http://search.cpan.org/dist/Acme-CPANAuthors-Chinese
-
-
-COPYRIGHT AND LICENCE
-
-Copyright (C) 2008 Fayland Lam
-
-This program is free software; you can redistribute it and/or modify it
-under the same terms as Perl itself.
+    This program is free software; you can redistribute it and/or modify it
+    under the same terms as Perl itself.
 
