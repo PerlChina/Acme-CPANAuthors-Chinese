@@ -4,7 +4,7 @@ use strict;
 use warnings;
 use utf8;
 
-our $VERSION = '0.32';
+our $VERSION = '0.33';
 
 use Acme::CPANAuthors::Register (
     ABBYPAN     => 'Abby Pan',
@@ -48,6 +48,7 @@ use Acme::CPANAuthors::Register (
     ROOTKWOK    => '郭樂聰', # HK, he posted to ChinaUnix Perl board
     SAL         => 'Sal Zhong (仲伟祥)',
     SHUCAO      => 'Shu Cao',
+    SJDY        => 'Perfi Wang',
     SUNNAVY     => '孙海军',
     SUNTONG     => 'Tong Sun',
     SWANSUN     => 'swansun huang',
