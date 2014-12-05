@@ -1,0 +1,7 @@
+/Acme-CPANAuthors-Chinese-*
+/.build
+/_build*
+/Build
+MYMETA.*
+!META.json
+/.prove

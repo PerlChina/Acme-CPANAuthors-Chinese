@@ -52,6 +52,7 @@ use Acme::CPANAuthors::Register (
     SUNNAVY     => '孙海军',
     SUNTONG     => 'Tong Sun',
     SWANSUN     => 'swansun huang',
+    SWUECHO     => '武浩',
     TADEG       => 'tadegenban 陈',
     TOMORROW    => ' 舌尖上的牛氓 ',
     WEIQK       => '万朝伟',
