@@ -4,7 +4,7 @@
       "Fayland Lam, C<< <fayland at gmail.com> >>"
    ],
    "dynamic_config" : 0,
-   "generated_by" : "Dist::Milla version v1.0.9, Dist::Zilla version 5.020, CPAN::Meta::Converter version 2.142690",
+   "generated_by" : "Dist::Zilla version 5.031, Dist::Milla version v1.0.15, CPAN::Meta::Converter version 2.142690",
    "license" : [
       "perl_5"
    ],
@@ -31,7 +31,7 @@
       },
       "develop" : {
          "requires" : {
-            "Dist::Milla" : "v1.0.9",
+            "Dist::Milla" : "v1.0.15",
             "Test::Pod" : "1.41"
          }
       },
@@ -59,9 +59,10 @@
          "web" : "https://github.com/PerlChina/Acme-CPANAuthors-Chinese"
       }
    },
-   "version" : "0.34",
+   "version" : "0.35",
    "x_contributors" : [
       "fayland <fayland@gmail.com>",
+      "Fayland Lam <fayland@gmail.com>",
       "unknown <Administrator@.(none)>",
       "unknown <LinDao@.(none)>"
    ]

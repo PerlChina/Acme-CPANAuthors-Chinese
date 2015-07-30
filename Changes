@@ -1,6 +1,7 @@
 Revision history for Acme-CPANAuthors-Chinese
 
 {{$NEXT}}
+        - PEKINGSAM   => 'Yan Xueqing',
 
 0.34  2014-12-05 18:00:18 CST
         - SWUECHO     => '武浩',
