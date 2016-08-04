@@ -1,5 +1,5 @@
 [![Build Status](https://travis-ci.org/PerlChina/Acme-CPANAuthors-Chinese.svg?branch=master)](https://travis-ci.org/PerlChina/Acme-CPANAuthors-Chinese)
-[![Coverage Status](https://coveralls.io/repos/PerlChina/Acme-CPANAuthors-Chinese/badge.png?branch=master)](https://coveralls.io/r/PerlChina/Acme-CPANAuthors-Chinese?branch=master)
+[![Coverage Status](https://coveralls.io/repos/PerlChina/Acme-CPANAuthors-Chinese/badge.svg?branch=master)](https://coveralls.io/r/PerlChina/Acme-CPANAuthors-Chinese?branch=master)
 
 # NAME
 

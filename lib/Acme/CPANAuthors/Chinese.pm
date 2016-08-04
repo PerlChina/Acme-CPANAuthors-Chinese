@@ -4,7 +4,7 @@ use strict;
 use warnings;
 use utf8;
 
-our $VERSION = '0.36';
+our $VERSION = '0.37';
 
 use Acme::CPANAuthors::Register (
     ABBYPAN     => 'Abby Pan',
@@ -42,7 +42,7 @@ use Acme::CPANAuthors::Register (
     PANGJ       => 'Jeff Pang',
     PANYU       => 'PAN YU',
     PEKINGSAM   => 'Yan Xueqing',
-    PYH         => '彭勇华',
+    # PYH         => '彭勇华',  ## Dups of YHPENG
     QJZHOU      => 'Qing-Jie Zhou',
     QSUN        => '孙泉',
     RANN        => '灿烂微笑 / Ran Ningyu',
