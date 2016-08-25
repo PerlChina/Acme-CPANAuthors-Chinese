@@ -31,6 +31,7 @@ use Acme::CPANAuthors::Register (
     HOOWA       => '孙冰',
     ISLUE       => '胡海麟',
     JOEJIANG    => '蒋永清',
+    JOKERGOO    => 'Zuguang Gu',
     JWU         => '吴健源',
     JZHANG      => '张军',
     KAILI       => '李凯',
