@@ -1,6 +1,7 @@
 Revision history for Acme-CPANAuthors-Chinese
 
 {{$NEXT}}
+        - ORANGE      => '桔子',
 
 0.38  2016-08-25 11:55:32 CST
         - JOKERGOO    => 'Zuguang Gu',
