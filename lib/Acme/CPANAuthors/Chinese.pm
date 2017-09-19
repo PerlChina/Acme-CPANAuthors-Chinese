@@ -37,6 +37,7 @@ use Acme::CPANAuthors::Register (
     KAILI       => '李凯',
     LAOMOI      => 'xiaoshengcaicai',
     LENIK       => '谢继雷',
+    LZH         => 'Li ZHOU',
     MAIN        => '吴健源',
     MCCHEUNG    => 'MC Cheung',
     NSNAKE      => '徐昊',

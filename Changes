@@ -1,6 +1,7 @@
 Revision history for Acme-CPANAuthors-Chinese
 
 {{$NEXT}}
+        - LZH         => 'Li ZHOU',
 
 0.39  2016-10-24 09:58:40 CST
         - ORANGE      => '桔子',
